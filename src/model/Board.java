@@ -1,8 +1,5 @@
 package model;
 
-import loaders.MyConfigLoader;
-
-import java.util.ArrayList;
 import java.util.List;
 
 public class Board {
